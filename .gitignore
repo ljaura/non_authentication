@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Subscription.API/bin/Debug/net6.0
+/Subscription.API/obj
+/Subscription.Domain/bin/Debug/net6.0
+/Subscription.Domain/obj
+/Subscription.Infrastructure/bin/Debug/net6.0
+/Subscription.Infrastructure/obj
+/UserService.API/bin/Debug/net6.0
+/UserService.API/obj
+/UserService.Domain/bin/Debug/net6.0
+/UserService.Domain/obj
+/UserService.Infrastructure/bin/Debug/net6.0
+/UserService.Infrastructure/obj
